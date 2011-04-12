@@ -1,3 +1,8 @@
+Notes
+=====
+
+Currently only supports WRITE. READ and MISC commands coming soon.
+
 Example
 =======
 
